@@ -1,0 +1,1 @@
+/usr/bin/clang++ -fPIC -g -shared -Wl,-soname,libScripting.so -o libScripting.so CMakeFiles/Scripting.dir/Scripting.cpp.o 

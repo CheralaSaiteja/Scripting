@@ -1,0 +1,5 @@
+/home/teja/Documents/Scripting/build/CMakeFiles/Scripting.dir
+/home/teja/Documents/Scripting/build/CMakeFiles/package.dir
+/home/teja/Documents/Scripting/build/CMakeFiles/package_source.dir
+/home/teja/Documents/Scripting/build/CMakeFiles/edit_cache.dir
+/home/teja/Documents/Scripting/build/CMakeFiles/rebuild_cache.dir

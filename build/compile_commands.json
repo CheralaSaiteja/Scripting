@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/teja/Documents/Scripting/build",
+  "command": "/usr/bin/clang++ -DScripting_EXPORTS  -g -fPIC -std=gnu++17 -o CMakeFiles/Scripting.dir/Scripting.cpp.o -c /home/teja/Documents/Scripting/Scripting.cpp",
+  "file": "/home/teja/Documents/Scripting/Scripting.cpp"
+}
+]
